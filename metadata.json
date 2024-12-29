@@ -1,0 +1,8 @@
+{
+  "name": "Medieval Scissor Skin",
+  "description": "A rare medieval-themed skin.",
+  "image": "https://ipfs.io/ipfs/Qmc5f5rouQ2JFJeguPL8yi1f7874axko6wauThSGySETYH",
+  "attributes": [
+    { "trait_type": "Rarity", "value": "Legendary" }
+  ]
+}
