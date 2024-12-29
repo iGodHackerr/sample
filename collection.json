@@ -1,6 +1,5 @@
 {
-    "name": "Stater Dragon",
-    "description": "This is a stater dragon",
-    "image": "https://immutable.github.io/sample-project-metadata/collection.webp",
-    "external_link": "https://immutable.com" 
+  "name": "Medieval Scissor Collection",
+  "description": "A collection of medieval-themed skins.",
+  "image": "https://ipfs.io/ipfs/Qmc5f5rouQ2JFJeguPL8yi1f7874axko6wauThSGySETYH"
 }
