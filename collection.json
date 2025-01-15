@@ -1,5 +1,35 @@
 {
-  "name": "Medieval Scissor Collection",
-  "description": "A collection of medieval-themed skins.",
-  "image": "https://ipfs.io/ipfs/Qmc5f5rouQ2JFJeguPL8yi1f7874axko6wauThSGySETYH"
+  "title": "Player Profile",
+  "type": "object",
+  "properties": {
+    "username": {
+      "type": "string",
+      "description": "The username of the player."
+    },
+    "wins": {
+      "type": "integer",
+      "description": "The number of games the player has won.",
+      "default": 0
+    },
+    "gamesPlayed": {
+      "type": "integer",
+      "description": "The total number of games the player has played.",
+      "default": 0
+    },
+    "profileImage": {
+      "type": "string",
+      "description": "URL for the player's profile image.",
+      "format": "uri"
+    },
+    "level": {
+      "type": "integer",
+      "description": "The player's current level in the game.",
+      "default": 1
+    },
+    "lastUpdated": {
+      "type": "string",
+      "description": "The timestamp when the profile was last updated.",
+      "format": "date-time"
+    }
+  }
 }
