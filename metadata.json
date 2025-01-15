@@ -31,6 +31,5 @@
       "description": "The timestamp when the profile was last updated.",
       "format": "date-time"
     }
-  },
-  "required": ["username"]
+  }
 }
